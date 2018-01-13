@@ -85,7 +85,9 @@ class Song
             if cartist == artist
               puts cartist
               puts cartist_value
+              puts @@artist_count
               @@artist_count[cartist] = cartist_value + 1
+              puts @@artist_count
               puts cartist_value
             end
           end
