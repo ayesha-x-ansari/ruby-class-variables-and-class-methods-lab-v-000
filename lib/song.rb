@@ -81,7 +81,9 @@ class Song
         else
           @@artist_count.each do |cartist, cartist_value|
             if cartist == artist
-              @@artist_count[cartist_value] = cartist_value + 1
+              puts artist
+              puts cartist_value
+              @@artist_count[cartist] = cartist_value + 1
             end
           end
         end
