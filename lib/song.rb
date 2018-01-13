@@ -109,7 +109,6 @@ class Song
         end
         puts "xxxxxxxxxxxxxxxx"
           @@artist_count
-          puts @@artist_count
         end
 
   end
