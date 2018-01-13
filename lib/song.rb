@@ -3,6 +3,20 @@ def callsong(clas)
 ###THIS METHOD IS FOR TESTING PURPOSE ONLY
   song  = clas.new("aa", "bb", "cc")
   song  = clas.new("aa", "bb", "cc")
+  song  = clas.new("aa", "bb", "cc")
+  song  = clas.new("aa", "bb", "cc")
+  song  = clas.new("aa", "bb", "cc")
+  song  = clas.new("aa", "bb", "cc")
+  song  = clas.new("aa", "bb", "cc")
+  song  = clas.new("aa", "bb", "cc")
+
+
+
+  
+  
+  
+  
+  
   Song.count
   Song.artists
   Song.artist_a
