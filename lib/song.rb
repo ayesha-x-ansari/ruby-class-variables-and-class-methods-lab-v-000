@@ -7,8 +7,8 @@ def callsong(clas)
   song  = clas.new("aa", "bb", "cc")
   song  = clas.new("aa", "dd", "cc")
   song  = clas.new("aa", "dd", "cc")
-  song  = clas.new("aa", "dd", "cc")
-  song  = clas.new("aa", "dd", "cc")
+  song  = clas.new("aa", "xx", "cc")
+  song  = clas.new("aa", "xx", "cc")
 
 
 
