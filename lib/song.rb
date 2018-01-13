@@ -86,6 +86,7 @@ class Song
               puts artist
               puts cartist_value
               @@artist_count[cartist] = cartist_value + 1
+              puts cartist_value
             end
           end
         end
