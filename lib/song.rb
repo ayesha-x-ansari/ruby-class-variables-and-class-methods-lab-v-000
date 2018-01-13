@@ -78,8 +78,10 @@ class Song
             if @@artist_count[artist] == nil
               @@artist_count[artist] = 1
               puts @@artist_count
+              puts "if"
         else
           @@artist_count.each do |cartist, cartist_value|
+            puts "else"
             if cartist == artist
               puts artist
               puts cartist_value
