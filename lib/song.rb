@@ -5,18 +5,18 @@ def callsong(clas)
   song  = clas.new("aa", "bb", "cc")
   song  = clas.new("aa", "bb", "cc")
   song  = clas.new("aa", "bb", "cc")
-  song  = clas.new("aa", "bb", "cc")
-  song  = clas.new("aa", "bb", "cc")
-  song  = clas.new("aa", "bb", "cc")
-  song  = clas.new("aa", "bb", "cc")
+  song  = clas.new("aa", "dd", "cc")
+  song  = clas.new("aa", "dd", "cc")
+  song  = clas.new("aa", "dd", "cc")
+  song  = clas.new("aa", "dd", "cc")
 
 
 
-  
-  
-  
-  
-  
+
+
+
+
+
   Song.count
   Song.artists
   Song.artist_a
