@@ -64,20 +64,20 @@ class Song
     def self.genres
       @@genres.uniq
     end
+
       def self.artist_a
         puts "ddddddddddddddd"
       end
+
         def self.artist_count
-          puts "zzzzzzzzzzzzzzzzz"
+        puts "zzzzzzzzzzzzzzzzz"
         puts @@artists
         puts "in"
-          puts "ddddddddddddddd"
+        puts "ddddddddddddddd"
           @@artists.each do |artist|
             if @@artist_count[artist] == nil
               @@artist_count[artist] = 1
               puts @@artist_count
-            end
-          end
         else
           @@artist_count.each do |cartist, cartist_value|
             if cartist == artist
